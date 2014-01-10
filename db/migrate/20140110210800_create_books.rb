@@ -4,7 +4,7 @@ class CreateBooks < ActiveRecord::Migration
       t.string :title
       t.text :description
       t.timestamp :date
-
+#lllll
       t.timestamps
     end
   end
