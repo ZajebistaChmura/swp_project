@@ -32,6 +32,9 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+#Dodajemy gema(wtf) do vml
+  gem 'vxml-tools'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
